@@ -1,3 +1,3 @@
 # Team-Profile-Generator
 
-This is a team profile generator. It doesn't work.
+This is a team profile generator.
